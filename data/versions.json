@@ -1,0 +1,35 @@
+{
+ "country": "BR-MT-MUNICIPAL",
+ "acts": [
+  {
+   "slug": "diamantino/lei-2026-01749",
+   "unit": "diamantino",
+   "short": "Lei 1749/2026",
+   "title": "Lei nº 1.749, de 20 de abril de 2026",
+   "url": "https://sapl.diamantino.mt.leg.br/norma/36603",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 173,
+     "source_url": "https://sapl.diamantino.mt.leg.br/media/sapl/public/normajuridica/2026/36603/1749-2026-lo-ple-022-2026.pdf",
+     "sha256": "7eed96b5c811301c090979d7755df7a0a5eee0b038abc2a6de51fceae8cd0f2a"
+    }
+   ]
+  },
+  {
+   "slug": "diamantino/lei-2026-01747",
+   "unit": "diamantino",
+   "short": "Lei 1747/2026",
+   "title": "Lei nº 1.747, de 20 de abril de 2026",
+   "url": "https://sapl.diamantino.mt.leg.br/norma/36601",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 7,
+     "source_url": "https://sapl.diamantino.mt.leg.br/media/sapl/public/normajuridica/2026/36601/public-1747-2026-lo.pdf",
+     "sha256": "8d97b6b70ec96eeefce3b623dec70ffe0f12199ae05e8a49d50a4fe0a982d038"
+    }
+   ]
+  }
+ ]
+}

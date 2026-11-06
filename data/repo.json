@@ -1,0 +1,17 @@
+{
+ "country": "BR-MT-MUNICIPAL",
+ "name": "Mato Grosso: municipal chambers",
+ "tz": "America/Cuiaba",
+ "future_branch": "futuro",
+ "publisher": "Câmaras Municipais de Mato Grosso (SAPL)",
+ "units": [
+  {
+   "id": "diamantino",
+   "folder": "diamantino",
+   "name": "Diamantino",
+   "code": "BR-MT-DIAMANTINO",
+   "official_code": "5103502",
+   "source": "sapl.diamantino.mt.leg.br"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "path": "br-mt-municipal",
+  "code": "BR-MT-MUNICIPAL",
+  "name": "Mato Grosso (municipal chambers)",
+  "level": "municipalities",
+  "parent": "br-mt",
+  "repo": "https://github.com/lexifina/brazil-mato-grosso-municipal-law",
+  "build": "built: the municipal law of Mato Grosso from the Câmaras Municipais' SAPL",
+  "units": [
+    "diamantino"
+  ]
+}

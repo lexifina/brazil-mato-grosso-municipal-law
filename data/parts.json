@@ -1,0 +1,12 @@
+{
+ "parts": {
+  "diamantino--30-leis-001.json": {
+   "acts": [
+    "diamantino/lei-2026-01747",
+    "diamantino/lei-2026-01749"
+   ],
+   "sha256": "dfb34d5535d9a22481ec232ab5eb86b179ba4bd5d51ac6d11a22ba613ebddf86"
+  }
+ },
+ "schema": 1
+}
